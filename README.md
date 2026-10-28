@@ -1,6 +1,3 @@
-# flutter-product-catalog
-Flutter application showcasing a list of products in card layouts with dedicated product detail pages.
-
 # Flutter Product Catalog
 
 A Flutter application that displays a list of products in card layouts and provides a dedicated detail page for each product.
